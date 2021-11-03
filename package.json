@@ -1,0 +1,26 @@
+{
+  "name": "thingslearned",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corozco6489/thingslearned.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corozco6489/thingslearned/issues"
+  },
+  "homepage": "https://github.com/corozco6489/thingslearned#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
